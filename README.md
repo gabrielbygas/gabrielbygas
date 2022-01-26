@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, PHP, Javascript, HTML, CSS, SQL, PostreSQL, etc.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me gabrielkalala@protonmail.com
+- 📫 How to reach me gabrielkalala@protonmail.com | https://www.linkedin.com/in/gabrielkalala/
 
 <!---
 gabrielbygas/gabrielbygas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
